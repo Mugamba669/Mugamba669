@@ -1,9 +1,9 @@
 ### ✨ Hi there 👋 ✨  
 
  
-Here are some ideas to get you started:
+- 
 
-- 🔭 I’m currently working on (Lw-Ziki-Amp WebVersion)[https://lw-web.netlify.app/]
+- 🔭 I’m currently working on Lw-Ziki-Amp WebVersion([https://lw-web.netlify.app/])
 - 🌱 I’m currently learning Flutter, Vuejs
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
