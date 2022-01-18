@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on [Lw-Ziki-Amp WebVersion](https://lw-web.netlify.app/)
 - 🌱 I’m currently learning Flutter, Vuejs
 <!-- 👯 I’m looking to collaborate on ...-->
-- 💬 Ask me about ...
+<!-- - 💬  -->
 - 📫 You can reach on twitter [@BrunoMugamba](https://twitter.com/BrunoMugamba)
-- 😄 Pronouns: ...
-- ⚡ I have worked with stacks like Javascript,PHP,HTML5,CSS3
+- ⚡ I have worked with stacks like Javascript,PHP,HTML5,CSS3,Electronjs,
