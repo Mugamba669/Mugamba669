@@ -10,6 +10,9 @@
 <!-- - 💬  -->
 - 📫 You can reach on twitter [@BrunoMugamba](https://twitter.com/BrunoMugamba)
 - <div> 
-  <a href = "mailto:katznicho@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/katende-nicholas-318a5b219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brunohectre@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mugamba-bruno-20629520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugamba669)](https://github.com/anuraghazra/github-readme-stats)
 - ⚡ I have worked with stacks like Javascript,PHP,HTML5,CSS3,Electronjs,
+- "?style=for-the-badge&logo=appveyor"
