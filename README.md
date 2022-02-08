@@ -1,4 +1,4 @@
-### <center> ✨ Hi there 👋 ✨  </center>
+<h1 align="center"> ✨ Hi there 👋  I'm Mugamba Bruno✨ </h1>
 <h3 align="center">A passionate developer from Uganda **(Audio master)** </h3>
 
 ### Contact me on
