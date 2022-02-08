@@ -18,9 +18,8 @@
 
 - ### <p>🌱 I’m currently learning **Figma** and <img align="center" alt="Rafa-Js" height="90" width="80" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></p>
 
-<!-- 👯 I’m looking to collaborate on ...-->
-<!-- - 💬  -->
-<div style="display:flex;flex-direction:row;justify-content:space-between;">
+
+<div style="display:flex;flex-direction:row;justify-content:space-between; width:100%!important;">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugamba669&theme=dracula&show_icons=true&layout=compact&langs_count=7)](https://github.com/Mugamba669/github-readme-stats)
 
