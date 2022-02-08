@@ -3,17 +3,17 @@
 
 ### Contact me on
 
-- <div> 
+ <div> 
+ <a href="https://twitter.com/BrunoMugamba" target="blank"><img src="https://img.shields.io/twitter/follow/BrunoMugamba?logo=twitter&style=for-the-badge" alt="BrunoMugamba"/></a>
   <a href = "mailto:brunohectre@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mugamba-bruno-20629520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
- <br/>
 
- ####
+ <br/>
 
 - ### <p style="display:flex;flex-direction:row;"> I'm owner of **LwZikiAmp** <br/> <a href="https://snapcraft.io/lw-ziki-amp"><img align="center" alt="LwZikiAmp" height="40" width="150" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg"></a></p>
   
-   <p align="left"> <a href="https://twitter.com/BrunoMugamba" target="blank"><img src="https://img.shields.io/twitter/follow/BrunoMugamba?logo=twitter&style=for-the-badge" alt="BrunoMugamba" /></a> </p>
+ 
 - ### 🔭 I’m currently working on [Lw-Ziki-Amp WebVersion](https://lw-web.netlify.app/)
 
 - ### <p>🌱 I’m currently learning **Figma** and <img align="center" alt="Rafa-Js" height="90" width="80" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></p>
