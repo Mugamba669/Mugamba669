@@ -7,7 +7,7 @@
             />
           </td>
           <td>
-                <h1>Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='50px' position="relative" morgin-top="10px"/>,<br /> ✨ Hi there 👋  I'm Mugamba Bruno✨</h1>
+                <h1>Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='50px' position="relative" morgin-top="10px"/><br /> I'm Mugamba Bruno✨</h1>
           </td>
         </tr>
       </table>
