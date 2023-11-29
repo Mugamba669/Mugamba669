@@ -12,7 +12,7 @@
         </tr>
       </table>
 
-<h3 align="center">A passionate developer from Uganda **(Audio master)** </h3>
+<h3 align="center">A passionate developer from Uganda <strong><i>(Audio Programmer)</i></strong></h3>
 
 ### Contact me on
 
@@ -24,12 +24,13 @@
 
  <br/>
 
-- ### <p style="display:flex;flex-direction:row;"> I'm owner of **LwZikiAmp** <br/> <a href="https://snapcraft.io/lw-ziki-amp"><img align="center" alt="LwZikiAmp" height="40" width="150" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg"></a></p>
+- ### <p style="display:flex;flex-direction:row;"> I'm owner of LwZikiAmp &nbsp;&nbsp;&nbsp;<a href="https://snapcraft.io/lw-ziki-amp"><img align="center" alt="LwZikiAmp" height="50" width="140" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;and Hype Muzik &nbsp;&nbsp;<a target="_blank" href="https://play.google.com/store/apps/details?id=x.a.zix"> <img width="120" height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
+</p>
   
  
-- ### 🔭 I’m currently working on [Lw-Ziki-Amp WebVersion](https://lw-web.netlify.app/)
+- ### 🔭 I’m currently working on [Hype Muzik](https://play.google.com/store/apps/details?id=x.a.zix)
 
-- ### <p>🌱 I’m currently learning **Figma** and <img align="center" alt="Rafa-Js" height="90" width="80" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></p>
+- ### <p>🌱 I’m currently learning Swift(iOS development) and Java Native Interface (JNI)</p>
 
 
 <div style="display:flex;flex-direction:row;justify-content:space-between; width:80%!important;">
