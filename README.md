@@ -12,7 +12,7 @@
         </tr>
       </table>
 
-<h3 align="center">A passionate developer from Uganda <strong><i>(Audio Programmer)</i></strong></h3>
+<h3 align="center">A passionate developer from Uganda <strong><i>(Audio Software Engineer)</i></strong></h3>
 
 ### Contact me on
 
